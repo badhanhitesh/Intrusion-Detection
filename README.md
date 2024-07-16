@@ -1,6 +1,6 @@
 # SecureCNN 🛡️
 
-![SecureCNN](https://yourimageurl.com/banner.png)
+### "Your Guardian Against Cyber Threats"
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -51,3 +51,6 @@ cd SecureCNN
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Run the application
+python app.py
