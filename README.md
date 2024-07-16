@@ -7,10 +7,7 @@
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 <div style="background-color: #f8d7da; padding: 15px; border-radius: 10px;">
