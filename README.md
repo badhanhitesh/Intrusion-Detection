@@ -41,7 +41,7 @@
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/SecureCNN.git
+git clone https://github.com/badhanhitesh/SecureCNN.git
 
 # Navigate to the project directory
 cd SecureCNN
