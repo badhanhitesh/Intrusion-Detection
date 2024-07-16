@@ -1,6 +1,6 @@
 # SecureCNN 🛡️
 
-### "Your Guardian Against Cyber Threats"
+### Your Guardian Against Cyber Threats
 
 ## Table of Contents
 - [Introduction](#introduction)
