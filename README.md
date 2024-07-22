@@ -12,7 +12,9 @@
 ## Introduction
 <div style="background-color: #f8d7da; padding: 15px; border-radius: 10px;">
   <h2 style="color: #a94442;">🚀 Implementing SecureCNN</h2>
-  <p>SecureCNN is a robust Convolutional Neural Network-based intrusion detection system designed to identify and mitigate unauthorized access attempts. This project combines the power of CNNs with a user-friendly web interface for real-time monitoring and alerts.</p>
+  <p>SecureCNN is a powerful system that uses Convolutional Neural Networks (CNNs) to detect and prevent unauthorized access to a computer network. The system works by analyzing network data to identify potential security threats. It features an easy-to-use web interface that lets users monitor these threats in real-time and receive immediate alerts if any suspicious activity is detected. This combination of advanced technology and user-friendly design helps keep networks secure and allows for quick responses to potential security issues.
+
+</p>
 </div>
 
 ## Features
